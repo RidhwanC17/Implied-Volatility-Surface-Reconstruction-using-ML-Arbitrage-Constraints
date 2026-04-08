@@ -1,2 +1,2 @@
 # Implied-Volatility-Surface-Reconstruction-using-ML-Arbitrage-Constraints
-A robust pipeline to predict missing implied volatility (IV) values for options data using machine learning, regime detection, and financial no-arbitrage constraints.  It combines feature engineering + clustering + XGBoost with post-processing corrections to ensure the predicted volatility surface is realistic and arbitrage-free.
+A robust pipeline to predict missing implied volatility (IV) values for options data using machine learning, regime detection and financial no-arbitrage constraints.  It combines feature engineering + clustering + XGBoost with post-processing corrections to ensure the predicted volatility surface is realistic and arbitrage-free.
